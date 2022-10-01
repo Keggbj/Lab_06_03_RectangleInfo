@@ -1,6 +1,5 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
-import java.lang.Math; // the Javaprogammer.com showed me this when I was clueless on how to square numbers instead of multiplying it by itself
 
 public class Main
 {
